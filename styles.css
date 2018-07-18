@@ -1,0 +1,57 @@
+body{
+	background-color:#ffbf00;
+}
+
+h1{
+	color:purple;
+	font-family:Comic Sans MS;
+	font-size:400%;
+}
+
+h2{
+	color:red;
+	font-family:Cambria;
+	font-size:250%;
+}
+
+h3{
+	color:yellow;
+	font-family:Garamond;
+	font-size:200%;
+}
+
+h4{
+	color:blue;
+	font-family:Georgia;
+	font-size:100%;
+}
+
+h5{
+	color:green;
+	font-family:Helvetica;
+	font-size:75%;
+}
+p1{ color: red;
+    font-family:Courier;
+    font-size:400%;
+
+    border: 5px solid forestgreen;
+    padding: 30px;
+    margin-top: 50px;
+}
+
+h2{color:red;}
+h3{color:yellow;}
+h4{color:blue;}
+h5{color:green;}
+h6{ color:black;}
+
+p1{ font-family:"Comic Sans MS";}
+p2{ font-family:"Book Antiqua";}
+p3{ font-family:"Verdana ";}
+p4{ font-family:"Geneva";}
+p5{ font-family:"Courier New";}
+p6{ font-family:"Lucida Console";}
+
+
+
